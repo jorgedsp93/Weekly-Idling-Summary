@@ -33,7 +33,7 @@ It compiles daily totals (Monday to Friday), aggregates weekly totals, and sends
 2. Paste the contents of `Code.gs` into the editor.
 3. Adjust the **recipient email** if needed:
    ```javascript
-   const emailAddress = "jserrano@meadowb.com";
+   const emailAddress = "";
 Save the script.
 
 Running
